@@ -1,0 +1,23 @@
+{
+  "name": "first-repo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nightking-12/first-repo#readme",
+  "bugs": {
+    "url": "https://github.com/nightking-12/first-repo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightking-12/first-repo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "project.js",
+  "scripts": {
+    "test": " "
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
